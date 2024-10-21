@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Business Homepage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Good Life Media</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <div class="hero-text">
+                <h2>Welcome to My Business</h2>
+                <p>"Capturing timeless moments with creativity, precision, and passion – bringing your vision to life through the lens".</p>
+                <a href="#" class="btn">Learn More</a>
+            </div>
+            <div class="hero-image">
+                <img src="hero-image.jpg" alt="Hero Image">
+            </div>
+        </section>
+        <section class="about">
+            <h2>About Us</h2>
+            <p>"At Good Life Media, we are dedicated to capturing the beauty, emotion, and essence of every moment. 
+With a passion for storytelling through images, we specialize in delivering high-quality photography for a variety of occasions, including weddings, events, portraits, and more. 
+Our team combines artistic vision with technical expertise to create photos that are both stunning and meaningful. 
+Whether it's a special milestone or everyday memories, we aim to provide a personalized experience that reflects your unique style and vision, 
+ensuring that each shot tells a story worth sharing for years to come."</p>
+        </section>
+        <section class="services">
+            <h2>Our Services</h2>
+            <div class="services-grid">
+                <div class="service">
+                    <h3>Service 1</h3>
+                    <p>Wedding Photography
+Capturing the magic of your special day with candid, formal, and creative shots that reflect the love and joy of the occasion.</p>
+                </div>
+                <div class="service">
+                    <h3>Service 2</h3>
+                    <p>Event Photography
+Professional coverage of corporate events, parties, and celebrations to preserve the highlights and memorable moments.
+</p>
+                </div>
+                <div class="service">
+                    <h3>Service 3</h3>
+                    <p>Maternity & Newborn Photography
+Beautiful and intimate sessions designed to celebrate the journey of parenthood, from pregnancy to your baby’s first days.</p>
+                </div>
+            </div>
+        </section>
+        <section class="contact
